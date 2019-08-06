@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Aug 06 09:14:22 CDT 2019
+powermock-module-junit4-legacy-1.6.3.jar>central=
+powermock-module-junit4-legacy-1.6.3-sources.jar>central=
+powermock-module-junit4-legacy-1.6.3.pom>central=

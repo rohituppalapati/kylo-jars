@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Aug 06 09:13:00 CDT 2019
+mesos-0.21.1-shaded-protobuf.jar>central=
+mesos-0.21.1.pom>central=

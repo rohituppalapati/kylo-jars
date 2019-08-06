@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Aug 06 09:12:13 CDT 2019
+avro-ipc-1.7.7.jar>central=
+avro-ipc-1.7.7.pom>central=
+avro-ipc-1.7.7-tests.jar>central=

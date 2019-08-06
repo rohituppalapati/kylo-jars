@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.cloudera.api</groupId>
+  <artifactId>cloudera-manager-api</artifactId>
+  <versioning>
+    <release>5.4.0.1-tba</release>
+    <versions>
+      <version>5.4.0.1-tba</version>
+    </versions>
+    <lastUpdated>20190806142229</lastUpdated>
+  </versioning>
+</metadata>
